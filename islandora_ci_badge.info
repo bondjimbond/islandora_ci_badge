@@ -1,0 +1,6 @@
+
+name = Islandora Cultural Institution Notices
+core = 7.x
+description = Displays a LocalContexts CI Attribution Incomplete Notice localcontexts.org.
+dependencies[] = islandora_badges
+package = Islandora Tools
